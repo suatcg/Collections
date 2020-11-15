@@ -1,0 +1,13 @@
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.exe
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.deps.json
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.runtimeconfig.json
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.runtimeconfig.dev.json
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.dll
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.pdb
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.csprojAssemblyReference.cache
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.csproj.CoreCompileInputs.cache
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.AssemblyInfoInputs.cache
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.AssemblyInfo.cs
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.dll
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.pdb
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.genruntimeconfig.cache
