@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suat-\\source\\repos\\Collections\\TopTenPops\\ReadAllCountries.csproj",
-      "projectName": "ReadAllCountries",
-      "projectPath": "C:\\Users\\Suat-\\source\\repos\\Collections\\TopTenPops\\ReadAllCountries.csproj",
+      "projectUniqueName": "C:\\Users\\Suat-\\source\\repos\\Collections\\DaysofTheWeekList\\DaysofTheWeekList.csproj",
+      "projectName": "DaysofTheWeekList",
+      "projectPath": "C:\\Users\\Suat-\\source\\repos\\Collections\\DaysofTheWeekList\\DaysofTheWeekList.csproj",
       "packagesPath": "C:\\Users\\Suat-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suat-\\source\\repos\\Collections\\TopTenPops\\obj\\",
+      "outputPath": "C:\\Users\\Suat-\\source\\repos\\Collections\\DaysofTheWeekList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

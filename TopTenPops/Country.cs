@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TopTenPops
+namespace ReadAllCountries
 {
     class Country
     {

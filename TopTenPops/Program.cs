@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
-namespace TopTenPops
+namespace ReadAllCountries
 {
     class Program
     {
@@ -10,8 +12,9 @@ namespace TopTenPops
 
             var reader = new CsvReader(filePath);
 
-            Country[] countries = reader.ReadFirstNCountries(10);
+            List<Country> countries = reader.ReadAllCountries();
 
+            //countries.OrderByDescending(x => x.Population);
             foreach (var country in countries)
             {
                 Console.WriteLine($"{PopulationFormat.FormatPopulation(country.Population).PadLeft(15) }: {country.Name}");

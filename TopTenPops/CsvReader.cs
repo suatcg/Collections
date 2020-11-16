@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Text;
 
-namespace TopTenPops
+namespace ReadAllCountries
 {
     class CsvReader
     {
@@ -13,19 +14,19 @@ namespace TopTenPops
             _csvFilePath = csvFilepath;
         }
 
-        public Country[] ReadFirstNCountries(int nCountries)
+        public List<Country> ReadAllCountries()
         {
-            Country[] countries = new Country[nCountries];
+            var countries = new List<Country>();
 
             using(StreamReader sr = new StreamReader(_csvFilePath))
             {
                 // read header line
                 sr.ReadLine();
 
-                for (int i = 0; i < nCountries; i++)
+                string csvLine;
+                while((csvLine = sr.ReadLine()) != null)
                 {
-                    string csvLine = sr.ReadLine();
-                    countries[i] = ReadCountryFromCsvLine(csvLine);
+                    countries.Add(ReadCountryFromCsvLine(csvLine)) ;
                 }
             }
 
@@ -36,10 +37,34 @@ namespace TopTenPops
         {
             string[] parts = csvLine.Split(new char[] { ',' });
 
-            string name = parts[0];
-            string code = parts[1];
-            string region = parts[2];
-            int population = int.Parse(parts[3]);
+            string name;
+            string code;
+            string region;
+            string populationText;
+
+
+            switch (parts.Length)
+            {
+                case 6:
+                    name = parts[3];
+                    code = parts[4];
+                    region = parts[2];
+                    populationText = parts[5];
+                    break;
+                case 7:
+                    name = parts[3] + ", " + parts[4];
+                    name = name.Replace("\"", null).Trim();
+                    code = parts[5];
+                    region = parts[2];
+                    populationText = parts[6];
+                    break;
+                default:
+                    throw new Exception($"Cant parse country from csvLine: {csvLine} ");
+
+            }
+
+            // TryParse leaves population equal zero if cant't parse
+            int.TryParse(populationText, out int population);
 
             return new Country(name, code, region, population);
         }

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsArray", "Collections\CollectionsArray.csproj", "{E979FA59-887D-420F-B4DE-ED651BC203DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsArray", "Collections\CollectionsArray.csproj", "{E979FA59-887D-420F-B4DE-ED651BC203DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopTenPops", "TopTenPops\TopTenPops.csproj", "{CD1EC70C-162D-467E-A095-CFD2E596F9F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadAllCountries", "TopTenPops\ReadAllCountries.csproj", "{CD1EC70C-162D-467E-A095-CFD2E596F9F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
