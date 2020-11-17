@@ -1,0 +1,13 @@
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\bin\Debug\netcoreapp3.1\CollectionsDictionary.exe
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\bin\Debug\netcoreapp3.1\CollectionsDictionary.deps.json
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\bin\Debug\netcoreapp3.1\CollectionsDictionary.runtimeconfig.json
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\bin\Debug\netcoreapp3.1\CollectionsDictionary.runtimeconfig.dev.json
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\bin\Debug\netcoreapp3.1\CollectionsDictionary.dll
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\bin\Debug\netcoreapp3.1\CollectionsDictionary.pdb
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\obj\Debug\netcoreapp3.1\CollectionsDictionary.csprojAssemblyReference.cache
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\obj\Debug\netcoreapp3.1\CollectionsDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\obj\Debug\netcoreapp3.1\CollectionsDictionary.AssemblyInfoInputs.cache
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\obj\Debug\netcoreapp3.1\CollectionsDictionary.AssemblyInfo.cs
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\obj\Debug\netcoreapp3.1\CollectionsDictionary.dll
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\obj\Debug\netcoreapp3.1\CollectionsDictionary.pdb
+C:\Users\Suat-\source\repos\Collections\CollectionsDictionary\obj\Debug\netcoreapp3.1\CollectionsDictionary.genruntimeconfig.cache
