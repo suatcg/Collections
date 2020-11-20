@@ -1,0 +1,13 @@
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Release\netcoreapp3.1\ReadAllCountries.exe
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Release\netcoreapp3.1\ReadAllCountries.deps.json
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Release\netcoreapp3.1\ReadAllCountries.runtimeconfig.json
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Release\netcoreapp3.1\ReadAllCountries.runtimeconfig.dev.json
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Release\netcoreapp3.1\ReadAllCountries.dll
+C:\Users\Suat-\source\repos\Collections\TopTenPops\bin\Release\netcoreapp3.1\ReadAllCountries.pdb
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Release\netcoreapp3.1\ReadAllCountries.csprojAssemblyReference.cache
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Release\netcoreapp3.1\ReadAllCountries.csproj.CoreCompileInputs.cache
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Release\netcoreapp3.1\ReadAllCountries.AssemblyInfoInputs.cache
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Release\netcoreapp3.1\ReadAllCountries.AssemblyInfo.cs
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Release\netcoreapp3.1\ReadAllCountries.dll
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Release\netcoreapp3.1\ReadAllCountries.pdb
+C:\Users\Suat-\source\repos\Collections\TopTenPops\obj\Release\netcoreapp3.1\ReadAllCountries.genruntimeconfig.cache

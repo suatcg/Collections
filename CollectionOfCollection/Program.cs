@@ -14,8 +14,22 @@ namespace ReadAllCountries
 
             var reader = new CsvReader(filePath);
 
-            List<Country> countries = reader.ReadAllCountries();
-            reader.RemoveCommaCountries(countries);
+            Dictionary<string, List<Country>> countries = reader.ReadAllCountries();
+            foreach(string region in countries.Keys)
+                Console.WriteLine(region);
+
+            Console.Write("Which of the above regions do you want ?");
+            string chosenRegion = Console.ReadLine();
+
+            if(countries.ContainsKey(chosenRegion))
+            {
+                foreach (Country country in countries[chosenRegion].Take(20))
+                {
+                    Console.WriteLine($"{PopulationFormat.FormatPopulation(country.Population).PadLeft(15) }: {country.Name}");
+                }
+            }
+            else
+                Console.WriteLine("That is not a valid region");
 
 
 
