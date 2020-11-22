@@ -1,0 +1,13 @@
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\bin\Debug\netcoreapp3.1\CollectionOfCollection.exe
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\bin\Debug\netcoreapp3.1\CollectionOfCollection.deps.json
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\bin\Debug\netcoreapp3.1\CollectionOfCollection.runtimeconfig.json
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\bin\Debug\netcoreapp3.1\CollectionOfCollection.runtimeconfig.dev.json
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\bin\Debug\netcoreapp3.1\CollectionOfCollection.dll
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\bin\Debug\netcoreapp3.1\CollectionOfCollection.pdb
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\obj\Debug\netcoreapp3.1\CollectionOfCollection.csprojAssemblyReference.cache
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\obj\Debug\netcoreapp3.1\CollectionOfCollection.csproj.CoreCompileInputs.cache
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\obj\Debug\netcoreapp3.1\CollectionOfCollection.AssemblyInfoInputs.cache
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\obj\Debug\netcoreapp3.1\CollectionOfCollection.AssemblyInfo.cs
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\obj\Debug\netcoreapp3.1\CollectionOfCollection.dll
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\obj\Debug\netcoreapp3.1\CollectionOfCollection.pdb
+C:\Users\Suat-\source\repos\Collections\CollectionOfCollection\obj\Debug\netcoreapp3.1\CollectionOfCollection.genruntimeconfig.cache

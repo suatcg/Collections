@@ -1,0 +1,13 @@
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\bin\Debug\netcoreapp3.1\NoughtsCrosses.exe
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\bin\Debug\netcoreapp3.1\NoughtsCrosses.deps.json
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\bin\Debug\netcoreapp3.1\NoughtsCrosses.runtimeconfig.json
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\bin\Debug\netcoreapp3.1\NoughtsCrosses.runtimeconfig.dev.json
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\bin\Debug\netcoreapp3.1\NoughtsCrosses.dll
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\bin\Debug\netcoreapp3.1\NoughtsCrosses.pdb
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\obj\Debug\netcoreapp3.1\NoughtsCrosses.csprojAssemblyReference.cache
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\obj\Debug\netcoreapp3.1\NoughtsCrosses.csproj.CoreCompileInputs.cache
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\obj\Debug\netcoreapp3.1\NoughtsCrosses.AssemblyInfoInputs.cache
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\obj\Debug\netcoreapp3.1\NoughtsCrosses.AssemblyInfo.cs
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\obj\Debug\netcoreapp3.1\NoughtsCrosses.dll
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\obj\Debug\netcoreapp3.1\NoughtsCrosses.pdb
+C:\Users\Suat-\source\repos\Collections\NoughtsCrosses\obj\Debug\netcoreapp3.1\NoughtsCrosses.genruntimeconfig.cache
